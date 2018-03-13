@@ -378,3 +378,7 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+img.img-fluid mb-5 d-block mx-auto {
+    border-radius: 5px;
+}
